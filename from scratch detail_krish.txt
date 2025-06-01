@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=tkaPlA6MwK0&list=PLseXYkzLxM8EbW0F8BXH1RFLOwBlDnIxB&index=13  ineuron:- tech hindi
+https://www.youtube.com/watch?v=JxgmHe2NyeY&t=520s    Complete Machine Learning In 6 Hours| Krish Naik   -good one
+
+https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2   Tutorial 1- End To End ML Project With Deployment-Github And Code Set Up
+
+
+
+
+
+
+Agenda
+1- Set up the github {Repository}
+a)new environment
+b)setup.py
+c)requirements.txt
+
+step 1:- GO to command prompt,copy paste path
+like cd C:\machine_learning
+
+step  2:- C:\machine_learning>code .
+it will take you to the vscode  
